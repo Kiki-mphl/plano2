@@ -1,0 +1,27 @@
+{
+  "name": "plano2",
+  "version": "0.0.1",
+  "description": "Site Studion devs html, css, js",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiki-mphl/plano2.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Javascript"
+  ],
+  "author": "Luiz Henrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kiki-mphl/plano2/issues"
+  },
+  "homepage": "https://github.com/Kiki-mphl/plano2#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
